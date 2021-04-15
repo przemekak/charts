@@ -3,9 +3,9 @@ entries:
   trino:
   - apiVersion: v2
     appVersion: "355"
-    created: "2021-04-15T11:34:15.444949201Z"
+    created: "2021-04-15T11:49:41.171557978Z"
     description: Fast distributed SQL query engine for big data analytics
-    digest: e522bd87a2c61dd4e2a08d36b32e10f6ab3cae12cddcff1ede358a7ce9b01c71
+    digest: 1f5a162a744aa7c77a6214d802d02d7ddd9cb2f2d2934308ff1c0a111ebd4b8c
     icon: https://trino.io/assets/images/trino-logo/trino-ko_tiny-alt.svg
     maintainers:
     - email: josh.howard@starburstdata.com
@@ -15,6 +15,6 @@ entries:
     name: trino
     type: application
     urls:
-    - https://github.com/przemekak/charts/releases/download/trino-0.3.0/trino-0.3.0.tgz
-    version: 0.3.0
-generated: "2021-04-15T11:34:15.250329096Z"
+    - https://github.com/przemekak/charts/releases/download/trino-0.4.0/trino-0.4.0.tgz
+    version: 0.4.0
+generated: "2021-04-15T11:49:41.015696054Z"
