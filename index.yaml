@@ -3,10 +3,10 @@ entries:
   trino:
   - apiVersion: v2
     appVersion: "375"
-    created: "2023-03-23T09:46:44.78372149Z"
+    created: "2023-04-21T12:17:32.943824796Z"
     description: Fast distributed SQL query engine for big data analytics that helps
       you explore your data universe
-    digest: cfd03e04e0c50b72b3dca4b5dbb67493e5a48e64abcb8a13408966768bb8a7dd
+    digest: 2d9f9a3a6ba1e4c2746ad6f6ed687e4952d0776d6bac41c74d4cd8c94a06cdc6
     home: https://trino.io/
     icon: https://trino.io/assets/trino.png
     maintainers:
@@ -17,6 +17,6 @@ entries:
     - https://github.com/trinodb/trino/tree/master/core/docker
     type: application
     urls:
-    - https://github.com/przemekak/charts/releases/download/trino-0.10.0/trino-0.10.0.tgz
-    version: 0.10.0
-generated: "2023-03-23T09:46:44.78372649Z"
+    - https://github.com/przemekak/charts/releases/download/trino-0.10.2/trino-0.10.2.tgz
+    version: 0.10.2
+generated: "2023-04-21T12:17:32.943837396Z"
